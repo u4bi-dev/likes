@@ -10,3 +10,6 @@ Everything I liked
 
 ### December 3, 2016
 - [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+
+### December 4, 2016
+- [JavaScript best practices](http://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
