@@ -13,3 +13,6 @@ Everything I liked
 
 ### December 4, 2016
 - [JavaScript best practices](http://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
+
+### December 5, 2016
+- [Cocos2d-x and Cocos2d Family vs Phaser.io](https://www.slant.co/versus/1054/1065/~cocos2d-x-and-cocos2d-family_vs_phaser-io)
