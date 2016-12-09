@@ -16,3 +16,7 @@ Everything I liked
 
 ### December 5, 2016
 - [Cocos2d-x and Cocos2d Family vs Phaser.io](https://www.slant.co/versus/1054/1065/~cocos2d-x-and-cocos2d-family_vs_phaser-io)
+
+### December 10, 2016
+- [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
+- [Chromebook keyboard shortcuts](https://support.google.com/chromebook/answer/183101?hl=en)
