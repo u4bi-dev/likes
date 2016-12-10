@@ -20,3 +20,6 @@ Everything I liked
 ### December 10, 2016
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Chromebook keyboard shortcuts](https://support.google.com/chromebook/answer/183101?hl=en)
+
+### December 11, 2016
+- [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com)
