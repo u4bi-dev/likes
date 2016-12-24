@@ -23,3 +23,6 @@ Everything I liked
 
 ### December 11, 2016
 - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com)
+
+### December 24, 2016
+- [Lightbend Activator Download & Get Started](https://www.lightbend.com/activator/download)
