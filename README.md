@@ -26,3 +26,6 @@ Everything I liked
 
 ### December 24, 2016
 - [Lightbend Activator Download & Get Started](https://www.lightbend.com/activator/download)
+
+### December 26, 2016
+- [From ES6 to Scala: Basics](https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html)
