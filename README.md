@@ -29,3 +29,6 @@ Everything I liked
 
 ### December 26, 2016
 - [From ES6 to Scala: Basics](https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html)
+
+### January 4, 2017
+- [Learn the ways of Linux-fu, for free](https://linuxjourney.com)
