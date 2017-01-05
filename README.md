@@ -32,3 +32,6 @@ Everything I liked
 
 ### January 4, 2017
 - [Learn the ways of Linux-fu, for free](https://linuxjourney.com)
+
+### January 6, 2017
+- [[Book] 새로 쓴 대용량 데이터베이스 솔루션 Vol.1](http://book.naver.com/bookdb/book_detail.nhn?bid=1985532)
