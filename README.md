@@ -35,3 +35,6 @@ Everything I liked
 
 ### January 6, 2017
 - [[Book] 새로 쓴 대용량 데이터베이스 솔루션 Vol.1](http://book.naver.com/bookdb/book_detail.nhn?bid=1985532)
+
+### January 6, 2017
+- [Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com)
