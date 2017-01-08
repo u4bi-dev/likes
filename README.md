@@ -38,3 +38,6 @@ Everything I liked
 
 ### January 6, 2017
 - [Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com)
+
+### January 8, 2017
+- [Ilya Kantor JavaScript Tutorial](http://javascript.info)
