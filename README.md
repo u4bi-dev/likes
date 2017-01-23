@@ -41,3 +41,6 @@ Everything I liked
 
 ### January 8, 2017
 - [Ilya Kantor JavaScript Tutorial](http://javascript.info)
+
+### January 23, 2017
+- [original jQuery source code released Jan 14th, 2006](http://genius.it/ejohn.org/files/jquery-original.html)
