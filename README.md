@@ -57,3 +57,6 @@ Everything I liked
 
 ### February 7, 2017
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+
+### February 16, 2017
+- [(테드강연) 리눅스의 기본철학 - 리누스 토발즈(Linus Torvalds)](https://youtu.be/8zhxD563uCw)
