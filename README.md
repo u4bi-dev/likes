@@ -60,3 +60,6 @@ Everything I liked
 
 ### February 16, 2017
 - [(테드강연) 리눅스의 기본철학 - 리누스 토발즈(Linus Torvalds)](https://youtu.be/8zhxD563uCw)
+
+### February 20, 2017
+- [clang-format for JavaScript](http://probst.io/blog/2015/01/15/clang-format-for-javascript)
