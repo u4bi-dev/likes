@@ -63,3 +63,6 @@ Everything I liked
 
 ### February 20, 2017
 - [clang-format for JavaScript](http://probst.io/blog/2015/01/15/clang-format-for-javascript)
+
+### February 28, 2017
+- [See a list of all CSS selectors](https://drafts.csswg.org/selectors-3/#selectors)
