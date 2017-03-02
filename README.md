@@ -66,3 +66,6 @@ Everything I liked
 
 ### February 28, 2017
 - [See a list of all CSS selectors](https://drafts.csswg.org/selectors-3/#selectors)
+
+### March 2, 2017
+- [OneNote 단축키](https://support.office.com/ko-kr/article/OneNote-2013%EC%9D%98-%EB%B0%94%EB%A1%9C-%EA%B0%80%EA%B8%B0-%ED%82%A4-65dc79fa-de36-4ca0-9a6e-dfe7f3452ff8)
