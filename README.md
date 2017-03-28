@@ -72,3 +72,6 @@ Everything I liked
 
 ### March 23, 2017
 - [Js Tips - A JS tip per day!](http://www.jstips.co)
+
+### March 28, 2017
+- [모바일 웹 페이지 디버깅 weinre](https://people.apache.org/~pmuellr/weinre/docs/latest)
