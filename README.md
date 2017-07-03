@@ -80,3 +80,6 @@ Everything I liked
 
 ## Jun 5, 2017
 - [Destructuring and parameter handling in ECMAScript 6](http://2ality.com/2015/01/es6-destructuring.html)
+
+## July 3, 2017
+- [How to Export a Rigged, Animated Model From 3ds Max to Three.js]()
