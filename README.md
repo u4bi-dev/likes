@@ -83,3 +83,6 @@ Everything I liked
 
 ## July 3, 2017
 - [How to Export a Rigged, Animated Model From 3ds Max to Three.js](http://blog.andrewray.me/how-to-export-a-rigged-animated-model-from-3ds-max-three-js)
+
+## July 13, 2017
+- [Bezier Curves - Desmos](https://www.desmos.com/calculator/cahqdxeshd)
