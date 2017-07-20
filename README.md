@@ -37,17 +37,14 @@ Everything I liked
 ### March 2, 2017
 - [OneNote 단축키](https://support.office.com/ko-kr/article/OneNote-2013%EC%9D%98-%EB%B0%94%EB%A1%9C-%EA%B0%80%EA%B8%B0-%ED%82%A4-65dc79fa-de36-4ca0-9a6e-dfe7f3452ff8)
 
-### March 28, 2017
-- [모바일 웹 페이지 디버깅 weinre](https://people.apache.org/~pmuellr/weinre/docs/latest)
-
-## Aprile 3, 2017
+### Aprile 3, 2017
 - [Domain Name Price and Availability](https://www.domcomp.com)
 
-## Jun 5, 2017
+### Jun 5, 2017
 - [Destructuring and parameter handling in ECMAScript 6](http://2ality.com/2015/01/es6-destructuring.html)
 
-## July 13, 2017
+### July 13, 2017
 - [Bezier Curves - Desmos](https://www.desmos.com/calculator/cahqdxeshd)
 
-## July 20, 2017
+### July 20, 2017
 - [The Best of JavaScript and the web platform](https://bestof.js.org)
