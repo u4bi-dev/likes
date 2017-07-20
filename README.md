@@ -86,3 +86,6 @@ Everything I liked
 
 ## July 13, 2017
 - [Bezier Curves - Desmos](https://www.desmos.com/calculator/cahqdxeshd)
+
+## July 20, 2017
+- [The Best of JavaScript and the web platform](https://bestof.js.org)
